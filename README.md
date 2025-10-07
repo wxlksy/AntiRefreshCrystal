@@ -15,11 +15,6 @@ A Minecraft mod that prevents end crystals from randomly refreshing their state,
 
 ## Installation
 
-### Requirements
-- Minecraft 1.21.1
-- Fabric Loader 0.16.10 or newer
-- Fabric API
-
 ### Steps
 1. Ensure Fabric Loader is installed
 2. Download the latest version of AntiRefreshCrystal
