@@ -1,5 +1,7 @@
 # AntiRefreshCrystal
 
+[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?logo=modrinth)](https://modrinth.com/mod/psychodreams-antirefreshcrystal)
+
 A Minecraft mod that prevents end crystals from randomly refreshing their state, providing more consistent and predictable crystal behavior.
 
 ## Overview
